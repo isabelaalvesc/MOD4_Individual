@@ -76,7 +76,7 @@ Segue imagem representando o modelo desde BD:
 ![Tabela_aluno](https://user-images.githubusercontent.com/113736997/222014127-0bb8c1fb-9046-438b-bc99-7d55227e2eb4.PNG)
 
 ## :wrench: Tecnologias utilizadas
-* 🐬 MySQL Workbench - MySQL
+🐬 MySQL Workbench - MySQL
 
 ## :handshake: Colaboradores
 👩🏻‍💻 Trabalho autoral de <a href="https://github.com/isabelaalvesc">Isabela Alves</a>
